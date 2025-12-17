@@ -1,7 +1,6 @@
 {
   "exclusions": {
     "default": [
-      "CRATE-KR03",
       "Z200",
       "Z202",
       "Z400",
@@ -628,4 +627,5 @@
   "keepMachines": {
     "vFormatParts": ["SSV75P", "SSV65P"]
   }
+
 }
