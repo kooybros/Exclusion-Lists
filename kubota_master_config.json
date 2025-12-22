@@ -1220,7 +1220,7 @@
     "BX_TLB": "^K\\d{9}$",
     "L_TRACTOR": "^TD\\d{8}$",
     "L_TLB": "^TD\\d{8}$",
-    "LX_TRACTOR": "^[36]F\\d{8}$",
+    "LX_TRACTOR": "^6[FC]\\d{8}$",
     "M_TRACTOR": "^3S\\d{8}$",
     "M4N_TRACTOR": "^3B\\d{8}$",
     "M_TLB": "^3S\\d{8}$",
